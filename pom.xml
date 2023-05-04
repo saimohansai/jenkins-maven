@@ -30,7 +30,7 @@
 <pluginRepositories>
     <pluginRepository>
         <id>central</id>
-        <url>http://http://52.72.193.191:8081/</url>
+        <url>http://52.72.193.191:8081/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>daily</updatePolicy>
